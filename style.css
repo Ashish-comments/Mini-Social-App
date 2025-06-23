@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; max-width: 600px; margin: 2rem auto; }
+.hidden { display: none; }
+#login-area, #main-feed { margin-bottom: 2rem; }
+
+.post {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+button { padding: 0.5rem 1rem; margin: 0.3rem 0; }
